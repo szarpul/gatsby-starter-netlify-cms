@@ -8,5 +8,8 @@ featuredimage: /img/blog-index.jpg
 ---
 # What is happening right now 
 
-
-d﻿ede
+``` cpp
+bool getBit(int num, int i) {
+    return ((num & (1<<i)) != 0);
+}
+```
